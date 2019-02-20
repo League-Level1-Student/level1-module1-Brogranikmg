@@ -16,7 +16,7 @@ public class Worm {
 			System.out.println("The worm squirms.");
 		}
 	}
-	void Worm(int wormLength, int hatred) {
+	Worm(int wormLength, int hatred) {
 		this.wormLength = wormLength;
 		this.hatred = hatred;
 	}
